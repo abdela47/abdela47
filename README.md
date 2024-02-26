@@ -17,11 +17,14 @@
     <a href="https://github.com/abdela47"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+### :computer: Software and Tools
 
 <p>
     <a href="https://github.com/abdela47"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 </p>
+
+### :cd: Operating Systems
+
 </br>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
