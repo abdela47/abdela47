@@ -26,7 +26,7 @@
 
 ### :cd: Operating Systems
 
-</br>
+<br/>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
