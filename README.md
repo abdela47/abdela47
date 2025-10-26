@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### :: Certifications
+<p>
+	![Security+ Badge](https://www.credly.com/earner/earned/badge/4ce17d06-42de-4cae-a2d2-59e601a89b7e)
+</p>
+
 ### 👨‍💻 Programming Languages
 
 <p>
