@@ -18,12 +18,23 @@
 
 <p>
 	<a href="https://github.com/abdela47"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
+	<a href="https://github.com/abdela47"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FFD343?logo=python&logoColor=black"></a>
+	<a href="https://github.com/abdela47"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white"></a>
 </p>
 
 ### :file_cabinet: Databases and Cloud Hosting
 
 <p>
 	<a href="https://github.com/abdela47"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="Cloudflare Pages" src="https://img.shields.io/badge/Cloudflare_Pages-F38020?logo=cloudflare&logoColor=white"></a>
 </p>
 
 ### :computer: Software and Tools
@@ -35,6 +46,8 @@
 	<a href="https://github.com/abdela47"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 	<a href="https://github.com/abdela47"><img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white"></a>
 	<a href="https://github.com/abdela47"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white"></a>
+	<a href="https://github.com/abdela47"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white"></a>
  
 </p>
 
